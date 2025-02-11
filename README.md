@@ -31,16 +31,19 @@ Retailers collect vast amounts of transaction data, but without the right techni
 - **Visual Analysis**: Scatter plots of support vs. confidence for rule interpretation.  
 
 ---
+## 📌 Why This Matters in ML?  
+- **Unsupervised learning** is crucial for discovering structure in data without predefined labels.  
+- **Market basket analysis** is widely used in **e-commerce, retail, and recommendation systems**.  
+- **Apriori & FP-Growth** showcase how different algorithms handle **large-scale pattern mining**.  
 
+---
 ## 🛠 How to Run the Project  
 1️⃣ Clone the repository:  
    ```bash
    git clone https://github.com/KaumudiRRawal/Unsupervised-Learning-Retail-Insights.git
    cd Unsupervised-Learning-Retail-Insights
 
-## 📌 Why This Matters in ML?  
-- **Unsupervised learning** is crucial for discovering structure in data without predefined labels.  
-- **Market basket analysis** is widely used in **e-commerce, retail, and recommendation systems**.  
-- **Apriori & FP-Growth** showcase how different algorithms handle **large-scale pattern mining**.  
+
+
 
 
